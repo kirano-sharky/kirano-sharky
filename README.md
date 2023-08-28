@@ -3,7 +3,7 @@
 <h3 align='center'>About me:</h3>
 <p align='center'>A new web-designer(student) who is from Malaysia.👨‍💻</p>
 <br/>
-<span align='center'>Likes to draw and play musics.🎨🎵</span>
+<p align='center'>Likes to draw and play musics.🎨🎵</p>
 
 
 
