@@ -1,7 +1,7 @@
 # repo
 <h1 align="center">Hi there, i'm kirano-sharky🦈</h1>
 <h3 align='center'>About me:</h3>
-<span align='center'>A new web-designer(student) who is from Malaysia.👨‍💻</span>
+<p align='center'>A new web-designer(student) who is from Malaysia.👨‍💻</p>
 <br/>
 <span align='center'>Likes to draw and play musics.🎨🎵</span>
 
