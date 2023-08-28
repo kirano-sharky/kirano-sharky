@@ -8,7 +8,7 @@
 
 
 <h3 align="left">Tech:</h3>
-//languages
+/*languages*/
 <p>Languages💻</p>
 <p align="left">
   <a href="https://skillicons.dev">
