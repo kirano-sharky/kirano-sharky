@@ -1,11 +1,10 @@
-# repo
 <h1 align="center">Hi there, i'm kirano-sharky🦈</h1>
 <h3 align='center'>About me:</h3>
 <p align='center'>A new web-designer(student) who is from Malaysia.👨‍💻<br/>Likes to draw and play musics.🎨🎵</p>
 
 
 
-<h3 align="center">Tech:</h3>
+#<h3 align="center">Tech:</h3>
 <p align='center'>
   Languages💻
   <br/>
