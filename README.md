@@ -8,6 +8,9 @@
 
 
 <h3 align="left">My Favourite Languages and Tools:🔧</h3>
+<span>A student who is from Malaysia.👨‍💻</span>
+<br/>
+<span>Likes to draw and play musics.🎨🎵</span>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs" />
