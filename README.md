@@ -5,9 +5,9 @@
 
 
 
-<h3 align="left">Tech:</h3>
-<p>Languages💻</p>
-<p align="left">
+<h3 align="center">Tech:</h3>
+<p align='center'>Languages💻</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
   </a>
