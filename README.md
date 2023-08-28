@@ -7,24 +7,33 @@
 
 
 
-<h3 align="left">My Favourite Languages and Tools:🔧</h3>
-<p>Languages</p>
+<h3 align="left">Tech:</h3>
+//languages
+<p>Languages💻</p>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
   </a>
 </p>
-
-<h3 align='left'>Code Editor:💻</h3>
+//framwork & library
+<p>Framwork and Library📂</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,vite,vue,nextjs" />
+  </a>
+</p>
+//tools
+<p>Tools🔧</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,nodejs" />
+  </a>
+</p>
+//code editor
+<p>Code Editor💻</p>
 <p align='left'>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
 </p>
 
-<h3>Package Managers:📂</h3>
-<p align='left'>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=yarn" />
-  </a>
-</p>
