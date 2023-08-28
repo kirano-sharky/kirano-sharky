@@ -4,7 +4,7 @@
 
 
 
-#<h3 align="center">Tech:</h3>
+<h3 align="center">Tech:</h3>
 <p align='center'>
   Languages💻
   <br/>
@@ -12,20 +12,23 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
   </a>
 </p>
-<p align='center'>Framwork and Library📂</p>
-<p align="center">
+<p align='center'>
+  Framwork and Library📂
+  <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,tailwind,vite,vue,nextjs" />
   </a>
 </p>
-<p align='center'>Tools🔧</p>
-<p align="center">
+<p align='center'>
+  Tools🔧
+  <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,nodejs" />
   </a>
 </p>
-<p align='center'><u>Code Editor💻</u></p>
 <p align='center'>
+  Code Editor💻
+  <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
