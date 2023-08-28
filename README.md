@@ -1,11 +1,11 @@
 # repo
 <h1 align="center">Hi there, i'm kirano-sharky🦈</h1>
-<h2 align='center'>About me:</h2>
+<h3 align='center'>About me:</h3>
 <p align='center'>A new web-designer(student) who is from Malaysia.👨‍💻<br/>Likes to draw and play musics.🎨🎵</p>
 
 
 
-<h2 align="center">Tech</h2>
+<h3 align="center">Tech</h3>
 <p align='center'>Languages💻</p>
 <p align="center">
   <a href="https://skillicons.dev">
