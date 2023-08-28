@@ -12,19 +12,19 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
   </a>
 </p>
-<p>Framwork and Library📂</p>
-<p align="left">
+<p align='center'>Framwork and Library📂</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,tailwind,vite,vue,nextjs" />
   </a>
 </p>
-<p>Tools🔧</p>
-<p align="left">
+<p align='center'>Tools🔧</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,nodejs" />
   </a>
 </p>
-<p>Code Editor💻</p>
+<p align='center'>Code Editor💻</p>
 <p align='left'>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode" />
