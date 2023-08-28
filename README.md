@@ -35,4 +35,6 @@
 </p>
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
+<p align='cener'>
+  <img src='https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark'/>
+</p>
