@@ -35,4 +35,4 @@
 </p>
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=2)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
