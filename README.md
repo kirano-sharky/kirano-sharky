@@ -1,6 +1,8 @@
 # repo
 <h1 align="center">Hi there, i'm kirano-sharky🦈</h1>
-<h3 align="center">A frontend-designer/student from Malaysia</h3>
+<h3>About me:</h3>
+<span>A student who is from Malaysia.👨‍💻</span>
+<span>Likes to draw and play musics.</span>
 
 
 
