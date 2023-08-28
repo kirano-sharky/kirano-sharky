@@ -7,11 +7,13 @@
 
 
 
-<h3 align="left">My Favourite Languages and Tools:</h3>
-<span padding='1'>-languages💻</span>
+<h3 align="left">My Favourite Languages and Tools:💻🔧</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,ts,nextjs,tailwind" />
   </a>
 </p>
 
+<h3 align='left'>Code Editor<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a></h3>
