@@ -5,7 +5,7 @@
 
 
 
-<h2 align="center"><u>Tech</u></h2>
+<h2 align="center">Tech</h2>
 <p align='center'>Languages💻</p>
 <p align="center">
   <a href="https://skillicons.dev">
