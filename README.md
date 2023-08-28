@@ -35,6 +35,6 @@
 </p>
 
 
-<p align='center'>
+<p align='center' column='1'>
   <img src='https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark'/>
 </p>
