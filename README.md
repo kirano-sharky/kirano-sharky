@@ -10,7 +10,7 @@
 <h3 align="left">My Favourite Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs" />
   </a>
 </p>
 
